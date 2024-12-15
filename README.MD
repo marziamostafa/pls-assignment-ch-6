@@ -3,3 +3,6 @@
 
 ## Question 2:
 ![alt text](image-1.png)
+
+## Question 3:
+![alt text](image-2.png)
