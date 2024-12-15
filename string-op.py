@@ -33,3 +33,11 @@ print("\n4.Comparison:")
 print(f"Is '{string_a}' equal to '{string_b}'? {string_a == string_b}")
 print(f"Is '{string_a}' less than '{string_b}'? {string_a < string_b}")
 print(f"Is '{string_a}' equal to '{string_c}'? {string_a == string_c}")
+
+# Pattern Matching
+text = "The quick brown fox jumps over the lazy dog."
+pattern = "fox"
+
+print("\n5.Pattern Matching:")
+if pattern in text:
+    print(f"The pattern '{pattern}' is found in the text.")
