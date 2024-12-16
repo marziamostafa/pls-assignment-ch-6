@@ -15,3 +15,10 @@
 
 ## Question 6:
 ![alt text](image-5.png)
+
+## Question 7 in c:
+![alt text](image-6.png)
+
+
+## Question 7 in c++:
+![alt text](image-7.png)
