@@ -12,3 +12,6 @@
 
 ## Question 5:
 ![alt text](image-4.png)
+
+## Question 6:
+![alt text](image-5.png)
